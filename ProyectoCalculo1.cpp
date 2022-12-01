@@ -2,6 +2,7 @@
 #include<stdio.h>
 
 int main() {
+
 	int eleccion;
 	printf("\n\tCalculadora de polinomios\n\n");
 	printf("\n\tEn el siguiente menu elija la opcion que quiera:\n\n");
